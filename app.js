@@ -19,7 +19,7 @@ const MongoStore = require('connect-mongo');
 
 var app = express();
 
-app.use(cors({ origin: ['https://example.com','https://priyanshumohan9849.github.io', 'https://stackoverflow.com', 'https://shubhamxpatel.github.io', 'http://localhost:3000'], credentials: true }))
+app.use(cors({ origin: ['https://example.com','https://aditya-agrawa.github.io', 'https://stackoverflow.com', 'https://shubhamxpatel.github.io', 'http://localhost:3000'], credentials: true }))
 
 
 
